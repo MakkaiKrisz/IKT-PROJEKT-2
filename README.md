@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<H1>Eladó trabant<H1>
 <html>
    <head>
       IKT-projekt-02:
